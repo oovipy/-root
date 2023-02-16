@@ -1,20 +1,20 @@
 # title of website
-title: %NAME%
+title: x-ui
 
 # description of website
-description: %ACTOR%'s navigation site
+description: yiguizhong2's navigation site
 
 # favicon of website
-favicon: "https://github.com/%ACTOR%.png?size=40"
+favicon: "https://github.com/yiguizhong2.png?size=40"
 
 # your website url
-url: https://%ACTOR%.github.io/%NAME%/
+url: https://yiguizhong2.github.io/x-ui/
 
 # github profile url
-github: "https://github.com/%ACTOR%"
+github: "https://github.com/yiguizhong2"
 
 # footer message
-footer: © 2021-2021 @%ACTOR%
+footer: © 2021-2021 @yiguizhong2
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
